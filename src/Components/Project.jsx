@@ -7,7 +7,7 @@ const Project = (props) => {
 			description:
 				"Visualize is a vision board generator designed to guide the user towards their goals and provide images to choose from. Visualize utilized jQuery and DOM manipulation.",
 			url: "",
-			github: "",
+			github: "https://github.com/mirandagrace-dev/project-1",
 		},
 		{
 			name: "Weather Dashboard ",
@@ -21,7 +21,7 @@ const Project = (props) => {
 			description:
 				"Password Generator was created to generate a random password when the button Generate Password is clicked. The password is dependent on answers to a series of prompts that the user receives when the button is clicked.",
 			url: "",
-			github: "",
+			github: "https://github.com/mirandagrace-dev/hw03",
 		},
 	]);
 	return (
