@@ -11,7 +11,7 @@ const Contact = (props) => {
 	});
 
 	const handleFormSubmit = () => {
-		var email = "jeanarose.mathis.dev@gmail.com";
+		var email = "mirandagrace.dev@gmail.com";
 		var subject = "I saw your portfolio and want to connect!";
 		var emailBody = contact.message;
 		window.location =

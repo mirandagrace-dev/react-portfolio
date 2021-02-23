@@ -1,0 +1,12 @@
+.navbar-item:hover {
+	color: rgb(216, 216, 216) !important;
+}
+
+.navbar-menu {
+	background-color: whitesmoke;
+}
+
+a.navbar-item.has-text-right.has-text-light:hover {
+	color: black !important;
+	background-color: whitesmoke;
+}
