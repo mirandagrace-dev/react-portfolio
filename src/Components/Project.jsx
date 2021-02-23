@@ -14,7 +14,7 @@ const Project = (props) => {
 			description:
 				"Weather Dashboard is a dynamic jQuery app designed to display the forecast for the current day and the next five days of a city that the user searches. The application stores the user's recently searched cities into local storage and displays them on the left-hand side. The user can simply click on the recently searched cities to view the weather for each city.",
 			url: "",
-			github: "".
+			github: "",
 		},
 		{
 			name: "Password Generator",
